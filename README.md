@@ -73,8 +73,7 @@ I'm a 4th-year Software Engineering student at **Universiti Teknologi Malaysia (
 
 <div align="center">
 
-<!-- Replace the placeholders below with your real links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdur-rahman-1875b52a0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-1875b52a0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur2010080@gmail.com)
 
 
