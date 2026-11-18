@@ -60,9 +60,8 @@ I'm a 4th-year Software Engineering student at **Universiti Teknologi Malaysia (
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdur009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur009&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdur009&theme=tokyo-night&hide_border=true" width="100%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdur009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur009&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
