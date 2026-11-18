@@ -1,85 +1,122 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Abdur%20Rahman&fontColor=ffffff&fontSize=44&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Abdur%20Rahman&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2C7BE5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineering+Student+%40+UTM;Building+scalable+web+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Turning+ideas+into+working+software;Java+%7C+Spring+%7C+React+%7C+Node.js+%7C+MySQL;Software+Engineering+%40+Universiti+Teknologi+Malaysia;Clean+code.+Real+problems.+Real+users." alt="Typing animation" />
 
-</div>
-
----
-
-### 👋 About Me
-
-I'm a 4th-year Software Engineering student at **Universiti Teknologi Malaysia (UTM)** and a full-stack developer who enjoys turning ideas into clean, scalable web applications. I like working across the whole stack, from database design and backend logic to responsive user interfaces.
-
-- 🎓 Final-year Software Engineering @ UTM
-- 🔭 Currently building and polishing full-stack web projects
-- 🌱 Currently learning: <!-- e.g. Docker, TypeScript, system design -->
-- 💼 Open to internships and junior developer opportunities
-- 📫 Reach me: <!-- your email -->
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Spring](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🧠 [**Mental-Health-Literacy-Hub**](https://github.com/Abdur009/Mental-Health-Literacy-Hub) | Web app with self-assessment tools and guidance to help students track and improve their mental well-being. | Java, Spring MVC, JSP, MySQL |
-| 🏫 [**Campus-Facilities-Reservation-System**](https://github.com/Abdur009/Campus-Facilities-Reservation-System-) | Hostel and room booking system with availability search and secure reservations. | PHP, MySQL, HTML, CSS, JS |
-| ✅ [**task_management_system**](https://github.com/Abdur009/task_management_system) | Task tracking app with authentication and real-time updates. | React, Node.js, Express, MySQL |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdur009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur009&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-1875b52a0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur2010080@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdur009)
 
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+<br/>
+
+## 🧑‍💻 Who I Am
+
+I'm **Abdur Rahman**, a 4th-year Software Engineering student at **Universiti Teknologi Malaysia** and a full-stack developer. I like building complete products end to end: the database, the server logic and the interface people actually use.
+
+<div align="center">
+
+| 🎓 Education | 🎯 Focus | 💡 Approach |
+|:---:|:---:|:---:|
+| B.Sc. Software Engineering<br/>Universiti Teknologi Malaysia | Web applications<br/>Backend and databases | Clean code<br/>Real-world problems |
+
+</div>
+
+<br/>
+
+## ⚡ What I Work With
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php&perline=5" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=4" />
+
+**Database & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&perline=4" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 Mental Health Literacy Hub</h3>
+      <p>A web app with self-assessment tools and guidance that helps students track and improve their mental well-being.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/Abdur009/Mental-Health-Literacy-Hub">View project →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏫 Campus Facilities Reservation</h3>
+      <p>A booking system for hostels and rooms where users find available spaces and make secure reservations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/Abdur009/Campus-Facilities-Reservation-System-">View project →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>✅ Task Management System</h3>
+      <p>A task tracker with user authentication and real-time updates to keep work organized.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/Abdur009/task_management_system">View project →</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🔭 What I'm Up To
+
+- 📘 Writing documentation and adding screenshots to every project
+- ⚙️ Deepening my backend, database and deployment skills
+- 🧪 Building and shipping new full-stack features
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdur009/Abdur009/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Abdur009/Abdur009/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Abdur009/Abdur009/output/github-snake.svg" />
 </picture>
+
+</div>
+
+<br/>
+
+## 📬 Get In Touch
+
+<div align="center">
+
+Have a project, question or idea? I'd love to hear from you.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-1875b52a0/)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur2010080@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
