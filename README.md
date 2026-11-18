@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Abdur%20Rahman&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Abdur%20Rahman&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Turning+ideas+into+working+software;Java+%7C+Spring+%7C+React+%7C+Node.js+%7C+MySQL;Software+Engineering+%40+Universiti+Teknologi+Malaysia;Clean+code.+Real+problems.+Real+users." alt="Typing animation" />
 
