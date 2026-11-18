@@ -77,4 +77,9 @@ I'm a 4th-year Software Engineering student at **Universiti Teknologi Malaysia (
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdur009/Abdur009/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Abdur009/Abdur009/output/github-snake.svg" />
+</picture>
+
 </div>
