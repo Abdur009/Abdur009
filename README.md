@@ -1,18 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Abdur%20Rahman&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Turning+ideas+into+working+software;Java+%7C+Spring+%7C+React+%7C+Node.js+%7C+MySQL+%7C+PostgreSQL;Software+Engineering+%40+Universiti+Teknologi+Malaysia;Clean+code.+Real+problems.+Real+users." alt="Typing animation" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-1875b52a0/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur2010080@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdur009)
-
-</div>
-
-<br/>
 
 ## 🧑‍💻 Who I Am
 
@@ -117,6 +103,6 @@ Have a project, question or idea? I'd love to hear from you.
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-1875b52a0/)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur2010080@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
 
 </div>
