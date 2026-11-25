@@ -1,8 +1,11 @@
 
 
-## 🧑‍💻 Who I Am
+##  Who I Am
 
-I'm **Abdur Rahman**, a 4th-year Software Engineering student at **Universiti Teknologi Malaysia** and a full-stack developer. I like building complete products end to end: the database, the server logic and the interface people actually use.
+I'm **Abdur Rahman**, a 4th-year Software Engineering student at **Universiti Teknologi Malaysia** and a full-stack developer who refuses to do things halfway. I like building complete products end to end: the database that stores the data, the server logic that makes sense of it, and the interface people actually enjoy using.
+I've learned that a great app is like an iceberg: users only see the 10% on top, but I care just as much about the 90% underneath. I also believe every bug is just a feature that hasn't been explained properly yet (the bugs disagree, and so do my users, so I fix them anyway).
+
+
 
 <div align="center">
 
@@ -14,7 +17,7 @@ I'm **Abdur Rahman**, a 4th-year Software Engineering student at **Universiti Te
 
 <br/>
 
-## ⚡ What I Work With
+## What I Work With
 
 <div align="center">
 
@@ -34,7 +37,7 @@ I'm **Abdur Rahman**, a 4th-year Software Engineering student at **Universiti Te
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -73,28 +76,18 @@ I'm **Abdur Rahman**, a 4th-year Software Engineering student at **Universiti Te
 
 <br/>
 
-## 🔭 What I'm Up To
+## What I'm Up To
 
-- 📘 Writing documentation and adding screenshots to every project
-- ⚙️ Deepening my backend, database and deployment skills
-- 🧪 Building and shipping new full-stack features
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdur009/Abdur009/output/github-snake-dark.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Abdur009/Abdur009/output/github-snake.svg" />
-</picture>
-
-</div>
+- Writing clear documentatio for all my project
+- Strengthening my backend, database, and deployment skills
+- Building and shipping new full-stack features
 
 <br/>
 
-## 📬 Get In Touch
+
+<br/>
+
+## Get In Touch
 
 <div align="center">
 
@@ -102,7 +95,6 @@ Have a project, question or idea? I'd love to hear from you.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-1875b52a0/)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur2010080@gmail.com)
-
 
 
 </div>
